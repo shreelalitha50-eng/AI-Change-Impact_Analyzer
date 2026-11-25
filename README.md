@@ -1,21 +1,15 @@
 # AI Change Impact Analyzer 🚀
 
-An AI-powered tool that analyzes code changes and identifies potentially affected components in a software project.
+An AI-powered application that analyzes software code changes and identifies potentially affected components to help developers understand the impact of modifications.
 
-## 🎯 Project Overview
-
-The AI Change Impact Analyzer helps developers understand the possible impact of code modifications by analyzing code changes, dependencies and affected components.
-
-## ✨ Key Features
-
-- Code change analysis
+## ✨ Features
+- Automated code change analysis
 - Identification of potentially affected components
 - Dependency analysis
-- AI-powered impact understanding
-- Structured impact reports
+- AI-powered impact assessment
+- Structured analysis reports
 
-## 🛠️ Tech Stack
-
+## 🛠️ Technology Stack
 - Transformers
 - Scikit-learn
 - FastAPI
@@ -25,18 +19,17 @@ The AI Change Impact Analyzer helps developers understand the possible impact of
 - FAISS
 - Supabase
 
-## 🏗️ Architecture
+## 🌐 Deployment
+The application is deployed and accessible online.
 
-The system combines code analysis, machine learning and a web interface to help developers understand the potential impact of software changes.
+## 👩‍💻 Project Development
+**Developer:** Shree Lalitha
 
-## ⚙️ Installation
+**Deployment:** Supported by a team member.
 
-Installation and execution instructions will be added based on the project configuration.
-
-## 👩‍💻 Developer
-
-Shree Lalitha
+## 🎯 Objective
+To help developers identify possible software breakages and understand the impact of code changes before integration.
 
 ---
 
-**AI Change Impact Analyzer – Understand the impact before changes become problems.**
+Built with curiosity and innovation ❤️
